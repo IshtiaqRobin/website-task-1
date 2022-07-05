@@ -22,13 +22,13 @@ h1{
 }
 
 .opacity-1{
-    opacity: 0.6;
+    opacity: 0.5;
     padding-bottom: 50px;
 }
 
 .flexible-container{
     display: flex;
-    
+    padding-bottom: 70px;
 }
 
 .half-width{
@@ -46,7 +46,7 @@ h1{
     background-image: linear-gradient(#FB8E48, rgb(241, 61, 61));
     color: white;
     font-weight: 700;
-    padding: 20px 40px;
+    padding: 25px 40px;
     border-radius: 35px;
 }
 
@@ -56,4 +56,45 @@ h1{
 
 .half-width img{
     width: 90%;
+}
+/*1st section compelte*/
+
+
+.pad-para{
+    padding-bottom: 80px;
+    padding-top: 0;
+    opacity: 0.8;
+    font-size: 20px;
+
+}
+
+.about{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: left;
+}
+
+
+.other-size-1 img{
+    width: 45%;
+    margin: 0;
+    padding-left: 30%;
+    padding-top: 140px;
+    padding-bottom: 0%;
+}
+
+.other-size-2{
+    width: 60%;
+    margin: 0;
+    padding-top: 150px;
+}
+
+.recipies{
+    text-align: center;
+}
+.lorem{
+    text-align: center;
+    opacity: 0.8;
+    font-size: 20px;
 }
